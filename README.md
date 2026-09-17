@@ -21,6 +21,3 @@ I build machine-learning systems that turn uncertain data into practical decisio
 | --- | --- |
 | [CouchKarma](https://couchkarma.com) | A live mood-and-taste recommendation app for movies, series, books, and podcasts, with Canadian streaming checks. Source is private. |
 | [Peeky Data](https://github.com/yasamansmi/peeky-data) | A Streamlit dashboard for exploring CSV data, missing values, types, and distributions. |
-| [Bike-sharing demand](https://github.com/yasamansmi/bike-sharing-software) | An early forecasting project with preprocessing, random forests, and sample tests; legacy environment documented. |
-
-My older repositories include coursework and exploratory notebooks. They are learning work rather than production systems.
