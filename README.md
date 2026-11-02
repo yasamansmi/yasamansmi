@@ -29,14 +29,3 @@ At SecureAuth, I trained and deployed PyTorch autoencoders and variational autoe
 “Deploying Budget-Aware Model-Based Reinforcement Learning for Incentive Allocation in an Online Labor Marketplace” — submitted to IAAI-27 (part of AAAI-27), Deployed AI Applications Track, 2026. **Under review.**
 
 Earlier publication: “An Analysis of the BWE-Associated Costs: The Issue of Demand Forecasting Accuracy,” *IFAC PapersOnLine*, 2020.
-
-## GitHub contributions
-
-<details>
-<summary>View my contribution history</summary>
-
-![Yasaman Samiee’s GitHub contribution history](assets/contributions.png)
-
-Snapshot generated November 2, 2026 with [GitHub Contributions Chart Generator](https://github-contributions.vercel.app/).
-
-</details>
